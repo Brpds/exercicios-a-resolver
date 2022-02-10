@@ -15,7 +15,7 @@ Estado Civil: 's', 'c', 'v', 'd';
 
 5) Altere o programa do Exercício 4 permitindo ao usuário informar as populações e as taxas de crescimento iniciais. Valide a entrada e permita repetir a operação.
 
-6) a) Faça um programa que imprima na tela os números de 1 a 20, um abaixo do outro. 
+6) Faça um programa que imprima na tela os números de 1 a 20, um abaixo do outro. 
 7) Depois modifique o programa para que ele mostre os números um ao lado do outro.
 
 8) Faça um programa que leia 5 números e informe o maior número.
